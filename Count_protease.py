@@ -79,8 +79,8 @@ def save_protease_count(protease_count, output_folder, file_name):
             output_file.write(f"{protease}\t{count}\n")
 
 def main():
-    blast_folder = "C:/Users/alexc/Desktop/Blast_terminados"
-    indicator_file = "C:/Users/alexc/Desktop/indicators_without_source.txt"
+    blast_folder = "Blast_terminados"
+    indicator_file = "indicators_without_source.txt"
     blast_output_folder = "Blast_complete_indicator"
     best_match_output_folder = "blast_best_match"
     protease_count_output_folder = "protease_count"
