@@ -1,1 +1,8 @@
+Si se desea usar los script indivduales es necesarios ejecutralos en el siguiente oriden:
 
+1. Create_protease_index.py
+2. replace_indicators_complets.py
+3. Select_best_macth.py
+4. Indidual_conting.py
+5. shorten_name.py
+6. Analysis_txt.py
